@@ -33,4 +33,4 @@ ___
 * ``JavaScript``
 
 ## Preview
-Você pode acessar a demo pelo link (https://emily-sousa.github.io/doctorcare/)
+Você pode acessar a demo pelo link (https://emily-sousa.github.io/fintech-ivy/)

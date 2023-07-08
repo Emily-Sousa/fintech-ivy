@@ -18,12 +18,12 @@ ___
 
 <h1>Sobre</h1>
 
-[IVY](https://emily-sousa.github.io/doctorcare/) O projeto Fintech Ivy é uma plataforma digital de finanças com o objetivo de demonstrar a nova era de um banco considerado clássico dentro da era da tecnologia.
+[IVY](https://emily-sousa.github.io/fintech-ivy/) O projeto Fintech Ivy é uma plataforma digital de finanças com o objetivo de demonstrar a nova era de um banco considerado clássico dentro da era da tecnologia.
 O site foi desenvolvido durante o primeiro semestre do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 
 [!<img width="917" alt="IVY-home" src="https://github.com/Emily-Sousa/fintech-ivy/assets/88735994/44bdedbd-b7b6-429e-a4a0-3d6ba6484d5c">
-](https://emily-sousa.github.io/doctorcare/)
-[!<img width="917" alt="image" src="https://github.com/Emily-Sousa/fintech-ivy/assets/88735994/c64d2db4-9fba-47b6-b423-c36e76666c24">](image-1.png)
+](https://emily-sousa.github.io/fintech-ivy/)
+[!<img width="917" alt="image" src="https://github.com/Emily-Sousa/fintech-ivy/assets/88735994/c64d2db4-9fba-47b6-b423-c36e76666c24">](https://emily-sousa.github.io/fintech-ivy/)
 ___
 
 ## Tecnologias
